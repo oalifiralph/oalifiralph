@@ -3,6 +3,7 @@
 🔍Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## Minhas Habilidades
+Aplicações
+![image](https://github.com/oalifiralph/oalifiralph/assets/133459291/a2214b25-35d8-4a33-8b46-f3c2636905db) ![image](https://github.com/oalifiralph/oalifiralph/assets/133459291/5233a4f3-a568-44fa-b071-fd0dad62e8cc)
 
-![image](https://github.com/oalifiralph/oalifiralph/assets/133459291/2a2437de-a36b-4a36-b2a1-d1a0943bb1bc) ![image](https://github.com/oalifiralph/oalifiralph/assets/133459291/f6ce12c8-56b7-42d0-90a5-eaf7d2b8306d)
 
