@@ -1,6 +1,6 @@
 ## Sobre mim
 
-🔍Explorando novas tecnologias e desenvolvendo soluções de software.
+🔍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## Minhas Habilidades
 
