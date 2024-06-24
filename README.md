@@ -1,4 +1,4 @@
-<img align="center" width=120% src="https://github.com/oalifiralph/oalifiralph/assets/133459291/49411aea-d68f-49bd-aecf-5a6c57ed3794"/>
+<img align="center" width=100% src="https://github.com/oalifiralph/oalifiralph/assets/133459291/2c33523f-bba0-4e38-b75a-32c0355a2f45"/>
 &nbsp;&nbsp;&nbsp;
 
 
@@ -40,9 +40,8 @@
 
 ![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
-![Asana](https://img.shields.io/badge/asana-273347?style=for-the-badge&logo=asana&logoColor=white) 
-![Noção](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![Noção](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 
