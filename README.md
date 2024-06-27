@@ -12,7 +12,7 @@
 
 
 
-## Minhas habilidades  <img align="center" width=4% src="https://github.com/oalifiralph/oalifiralph/assets/133459291/a6a8c926-003b-4bd9-ba6a-0b0186312778"/>
+## Minhas habilidades  <img align="center" width=6% src="https://github.com/oalifiralph/oalifiralph/assets/133459291/a6a8c926-003b-4bd9-ba6a-0b0186312778"/>
 
 
 ### Programação e Desenvolvimento:
