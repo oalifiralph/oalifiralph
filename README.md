@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Eu desenvolvo soluções web inovadoras. <br><br> Como desenvolvedor web freelancer, busco me especializar na criação de sites, landing pages, sites de comércio eletrônico, blogs e muito mais. Com foco em <strong>HTML, CSS, JavaScript e PHP</strong>, sou <strong>apaixonado por criar experiências centradas no usuário</strong> e aproveitar a tecnologia para soluções de alta qualidade.</p>  
+<p align="center">Eu desenvolvo soluções web inovadoras. <br><br> Como desenvolvedor web freelancer, busco me especializar na criação de sites, landing pages, sites de comércio eletrônico, blogs e muito mais. Com foco em <strong>HTML, CSS, JavaScript e PHP,</strong> sou <strong>apaixonado por criar experiências centradas no usuário</strong> e aproveitar a tecnologia para soluções de alta qualidade.</p>  
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=oalifiralph&theme=dracula&mode=weekly" />
