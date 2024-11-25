@@ -1,60 +1,67 @@
-<img align="center" width=100% src="https://github.com/user-attachments/assets/1e750c6b-6c4b-4238-a8b0-c9eefff2720d"/>
-&nbsp;&nbsp;&nbsp;
+# Perfil do GitHub de Álifi Ralph
 
+<img aling="center" width=100% src="https://github.com/user-attachments/assets/2bf8370e-3727-4d1d-b666-716b5f6077b9"/>
 
-<p align="center">Eu desenvolvo soluções web inovadoras. <br><br> Como desenvolvedor web freelancer, busco me especializar na criação de sites, landing pages, sites de comércio eletrônico, blogs e muito mais. Com foco em <strong>HTML, CSS, JavaScript e PHP,</strong> sou <strong>apaixonado por criar experiências centradas no usuário</strong> e aproveitar a tecnologia para soluções de alta qualidade.</p>  
+<p align="center">❤️ Amo criar soluções inovadoras em tecnologia. <br><br> Como criador de conteúdo tech e desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!</p>
 
-<div align="center" style="margin-bottom:100px">
-<img width=48% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=oalifiralph&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalifiralph&show_icons=true&theme=dracula&layout=compact" />
-</div>
- 
+---
 
+## 🌟 Destaques
 
+- **Desenvolvedor Freelancer:** Especialista em criação de sites, apps e softwares sob medida para clientes.
 
-## Minhas habilidades  <img align="center" width=5% src="https://github.com/oalifiralph/oalifiralph/assets/133459291/a6a8c926-003b-4bd9-ba6a-0b0186312778"/>
+---
 
+## 🛠️ Habilidades
 
-### Programação e Desenvolvimento:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+### Linguagens de Programação e Frameworks:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 
-### Ferramentas de design:
+### Bancos de Dados:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+### Ferramentas e Plataformas:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
+![Loja Integrada](https://img.shields.io/badge/Loja%20Integrada-007ACC?style=for-the-badge&logoColor=white)
 
-### Plataformas de comércio eletrônico:
+### Ferramentas de Design:
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-![Wix](https://img.shields.io/badge/Wix-%230DB0D7.svg?style=for-the-badge&logo=Wix&logoColor=white) 
-![Bandeja](https://img.shields.io/badge/Tray-%23E34F26.svg?style=for-the-badge&logoColor=white) 
-![Nuvemshop](https://img.shields.io/badge/Nuvemshop-%23FF6B00.svg?style=for-the-badge&logoColor=white) 
-![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white) 
+---
 
-### Ferramentas da estação de trabalho:
+## 📈 Estatísticas do GitHub
 
-![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
-![Noção](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-## Contatos:
-
-<div> 
-<a href="https://www.instagram.com/oalifiralph/target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:contatoalifiralph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/oalifiralph/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<div align="center">
+<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=oalifiralph&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalifiralph&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
-&nbsp;
-&nbsp;
+
+---
+
+## 🌐 Conecte-se Comigo:
+
+### Redes Sociais
+<div align="center">
+<a href="https://www.instagram.com/oalifiralph/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.tiktok.com/oalifiralph" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+<a href="mailto:contatoalifiralph@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/oalifiralph/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://ardeveloper.com.br/meus-links" target="_blank"><img src="https://img.shields.io/badge/-Link%20Bio-0078D6?style=for-the-badge&logo=linktree&logoColor=white" alt="Meus Links"></a>
+</div>
+
+### Meu Site
+<div align="center">
+<a href="https://www.ardeveloper.com.br" target="_blank"><img src="https://img.shields.io/badge/-ardeveloper.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+</div>
 
 
-<p align="center">Tenho certeza de que posso ajudá-lo a dar vida ao seu projeto!</p>
+
+---
+
+<p align="center">Vamos colaborar e realizar projetos incríveis juntos!</p>
