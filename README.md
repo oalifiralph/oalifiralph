@@ -2,7 +2,7 @@
 
 <img aling="center" width=100% src="https://github.com/user-attachments/assets/2bf8370e-3727-4d1d-b666-716b5f6077b9"/>
 
-<p align="center">❤️ Amo criar soluções inovadoras em tecnologia. <br><br> Como criador de conteúdo tech e desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!</p>
+<p align="center">❤️ Amo criar soluções inovadoras em tecnologia. <br><br> desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!</p>
 
 ---
 
@@ -52,7 +52,7 @@
 <a href="https://www.tiktok.com/oalifiralph" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 <a href="mailto:contatoalifiralph@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/oalifiralph/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://ardeveloper.com.br/meus-links" target="_blank"><img src="https://img.shields.io/badge/-Link%20Bio-0078D6?style=for-the-badge&logo=linktree&logoColor=white" alt="Meus Links"></a>
+<a href="https://links-do-ar-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Link%20Bio-0078D6?style=for-the-badge&logo=linktree&logoColor=white" alt="Meus Links"></a>
 </div>
 
 ### Meu Site
