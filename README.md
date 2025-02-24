@@ -2,22 +2,23 @@
 
 <img aling="center" width=100% src="https://github.com/user-attachments/assets/2bf8370e-3727-4d1d-b666-716b5f6077b9"/>
 
-<p align="center">❤️ Amo criar soluções inovadoras em tecnologia. <br><br> desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E2CF7&width=435&lines=Hello%2C+my+name+is+%C3%81lifi+Ralph;I+from+Rio+de+Janeiro%2C+Brazil;I+study+Software+Engineering+;at+Cruzeiro+do+Sul+University+;and+I+am+a+student+at+Cloud+School;Welcome!+%3A)" alt="Typing SVG" /></a>
 
 ---
 
 ## 🌟 Destaques
 
-- **Desenvolvedor Freelancer:** Especialista em criação de sites, apps e softwares sob medida para clientes.
+- **Cloud Developer:** Especialista em criação de sites, apps e softwares sob medida para clientes.
 
 ---
 
 ## 🛠️ Habilidades
 
 ### Linguagens de Programação e Frameworks:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +28,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
-![Loja Integrada](https://img.shields.io/badge/Loja%20Integrada-007ACC?style=for-the-badge&logoColor=white)
 
 ### Ferramentas de Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
