@@ -1,6 +1,6 @@
 # Perfil do GitHub de Álifi Ralph
 
-<img aling="center" width=100% src="https://github.com/user-attachments/assets/2bf8370e-3727-4d1d-b666-716b5f6077b9"/>
+![Gif do Mario Codando](img/mariobros.gif)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E2CF7&width=435&lines=Hello%2C+my+name+is+%C3%81lifi+Ralph;I+from+Rio+de+Janeiro%2C+Brazil;I+study+Software+Engineering+;at+Cruzeiro+do+Sul+University+;and+I+am+a+student+at+Cloud+School;Welcome!+%3A)" alt="Typing SVG" /></a>
 
