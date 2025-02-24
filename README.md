@@ -1,8 +1,15 @@
-# Perfil do GitHub de Álifi Ralph
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=600&color=4E2CF7&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></div>
 
-![Gif do Mario Codando](img/mariobros.gif)
+ 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E2CF7&width=435&lines=Hello%2C+my+name+is+%C3%81lifi+Ralph;I+from+Rio+de+Janeiro%2C+Brazil;I+study+Software+Engineering+;at+Cruzeiro+do+Sul+University+;and+I+am+a+student+at+Cloud+School;Welcome!+%3A)" alt="Typing SVG" /></a>
+
+<img src="img/mario-bros.gif"> 
+  
+ 
+  <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=5500&pause=6&color=4E2CF7&width=435&lines=Hello%2C+my+name+is+%C3%81lifi+Ralph!;I+from+Rio+de+Janeiro%2C+Brazil.;I+study+Software+Engineering+;at+Cruzeiro+do+Sul+University.;and+I+am+a+student+at+Cloud+School." alt="Typing SVG" /></a> </div>
+  
 
 ---
 
@@ -60,8 +67,3 @@
 <a href="https://www.ardeveloper.com.br" target="_blank"><img src="https://img.shields.io/badge/-ardeveloper.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
-
-
----
-
-<p align="center">Vamos colaborar e realizar projetos incríveis juntos!</p>
