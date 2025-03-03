@@ -20,23 +20,26 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{oalifiralph}/count.svg" /></p> 
 <br></div>
 
-## 🌟 Destaques
-
-- **Cloud Developer:** Especialista em criação de sites, apps e softwares sob medida para clientes.
-
 ---
 
-
-
-## 🛠️ Habilidades
-
-### Linguagens de Programação e Frameworks:
+<div align="center">
 
 # My main technologies:
 
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+      <img  alt="Windows" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg">
+  </a>
+<a href="https://www.kernel.com/pt-br" target="_blank" rel="noreferrer">
+      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer">
       <img  alt="aws" height="50px" style="padding-right:10px;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" />
   </a>
+<a href="https://git-scm.com/downloads" target="_blank" rel="noreferrer">
+      <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"/>
+  </a>
+ <a href="https://github.com/oalifiralph" target="_blank" rel="noreferrer">
+      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+   </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
@@ -46,13 +49,9 @@
   <a href="https://www.notion.so/Data-Science-be5e95626305405c8787fb44f134569c" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png"/>
   </a>
-<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
-<a href="https://git-scm.com/downloads" target="_blank" rel="noreferrer">
-      <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"/>
-  </a>
-   <a href="https://github.com/oalifiralph" target="_blank" rel="noreferrer">
-      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+ </p> 
+ <br></div>
+    
 
 
     
