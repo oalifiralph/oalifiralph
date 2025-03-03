@@ -70,6 +70,6 @@
 <a href="https://www.ardeveloper.com.br" target="_blank"><img src="https://img.shields.io/badge/-ardeveloper.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
----
 
-<img src="https://raw.githubusercontent.com/oalifiralph/oalifiralph/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/oalifiralph/oalifiralph/output/github-contribution-grid-snake.svg"/> 
