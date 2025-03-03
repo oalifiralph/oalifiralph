@@ -1,16 +1,17 @@
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4000&pause=800&color=4E2CF7&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+My+GitHub!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=4E2CF7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+My+GitHub!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></div>
 
  
 
 
-<img src="img/mario-bros.gif"> 
+<img src="img/mario-bros.gif" width="1100">
+ <div aling="center"/>
   
  
-  <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=5500&pause=80&color=4E2CF7&width=435&lines=Hello%2C+my+name+is+%C3%81lifi+Ralph!;I+from+Rio+de+Janeiro%2C+Brazil.;I+study+Software+Engineering+;at+Cruzeiro+do+Sul+University.;and+I+am+a+student+at+Cloud+School." alt="Typing SVG" /></a> </div>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5000&pause=800&color=4E2CF7&center=true&vCenter=true&width=545&lines=Hello%2C+my+name+is+%C3%81lifi+Ralph!;I+from+Rio+de+Janeiro%2C+Brazil;i+study+Software+Engineering+;at+Cruzeiro+do+Sul+University;+and+i+study+cloud+compute;+at+Escola+da+Nuvem." alt="Typing SVG" /></a> </div>
   
 
 ---
