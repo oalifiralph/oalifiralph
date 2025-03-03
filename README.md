@@ -69,8 +69,8 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=oalifiralph&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalifiralph&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+<img width=45% src="https://github-readme-streak-stats.herokuapp.com?user=oalifiralph&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
+<img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalifiralph&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -78,12 +78,19 @@
 ## 🌐 Conecte-se Comigo:
 
 ### Redes Sociais
+
 <div align="center">
-<a href="mailto:contatoalifiralph@gmail.com" target="_blank" rel="noreferrer">
+ 
+ <a href="https://www.linkedin.com/in/oalifiralph/" target="_blank" rel="noreferrer">
+      <img  alt="Linkedin" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014"/>
+  <a href="mailto:contatoalifiralph@gmail.com" target="_blank" rel="noreferrer">
       <img  alt="Gmail" height="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a>
- <a href="https://www.linkedin.com/in/oalifiralph/" target="_blank" rel="noreferrer">
-      <img  alt="Steam" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014"/>
+<a href="https://t.me/oalifiralph/" target="_blank" rel="noreferrer">
+      <img  alt="Telegram" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>
+
+
+
   
  </a>
 </div>
