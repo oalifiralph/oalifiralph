@@ -12,9 +12,13 @@
  
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5000&pause=800&color=4E2CF7&center=true&vCenter=true&width=545&lines=Hello%2C+my+name+is+%C3%81lifi+Ralph!;I+from+Rio+de+Janeiro%2C+Brazil;i+study+Software+Engineering+;at+Cruzeiro+do+Sul+University;+and+i+study+cloud+compute;+at+Escola+da+Nuvem." alt="Typing SVG" /></a> </div>
-  
-
+ 
 ---
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{oalifiralph}/count.svg" /></p> 
+<br></div>
 
 ## 🌟 Destaques
 
@@ -22,14 +26,36 @@
 
 ---
 
+
+
 ## 🛠️ Habilidades
 
 ### Linguagens de Programação e Frameworks:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# My main technologies:
 
+<a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer">
+      <img  alt="aws" height="50px" style="padding-right:10px;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" />
+  </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+  <a href="https://www.notion.so/Data-Science-be5e95626305405c8787fb44f134569c" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png"/>
+  </a>
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+<a href="https://git-scm.com/downloads" target="_blank" rel="noreferrer">
+      <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"/>
+  </a>
+   <a href="https://github.com/oalifiralph" target="_blank" rel="noreferrer">
+      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+
+
+    
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
