@@ -41,7 +41,7 @@
       <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"/>
   </a>
  <a href="https://github.com/oalifiralph" target="_blank" rel="noreferrer">
-      <img  alt="Github" height="50px" style="padding-right:10px;" src="img/github-logo-png_seeklogo-273184.svg"/>
+      <img  alt="Github" height="50px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/github.png"/>
    </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
