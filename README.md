@@ -62,16 +62,13 @@
       <img  alt="notion" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png"/>
   </a>
  </p> 
- <br></div>
+ <br> 
+</div>
 
 ---
-
-## 🌐 Conecte-se Comigo:
-
-### Redes Sociais
-
 <div align="center">
- 
+
+# 🌐Connect With Me:
  <a href="https://www.linkedin.com/in/oalifiralph/" target="_blank" rel="noreferrer">
       <img  alt="Linkedin" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png?20210220164014"/>
   <a href="mailto:contatoalifiralph@gmail.com" target="_blank" rel="noreferrer">
@@ -80,8 +77,7 @@
 <a href="https://t.me/oalifiralph/" target="_blank" rel="noreferrer">
       <img  alt="Telegram" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>
  </a>
+
 </div>
-
-
 <img src=".github/workflows/github-user-contribution (1).svg"/> 
 
