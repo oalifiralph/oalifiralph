@@ -79,16 +79,7 @@
   </a>
 <a href="https://t.me/oalifiralph/" target="_blank" rel="noreferrer">
       <img  alt="Telegram" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"/>
-
-
-
-  
  </a>
-</div>
-
-### Meu Site
-<div align="center">
-<a href="https://www.ardeveloper.com.br" target="_blank"><img src="https://img.shields.io/badge/-ardeveloper.com.br-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
 
