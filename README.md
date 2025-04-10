@@ -66,15 +66,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-<img width=45% src="https://github-readme-streak-stats.herokuapp.com?user=oalifiralph&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-<img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalifiralph&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo:
 
 ### Redes Sociais
